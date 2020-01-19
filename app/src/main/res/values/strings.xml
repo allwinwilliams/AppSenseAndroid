@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppSense</string>
+    <string name="press_the_button_below_to_start">Press the button below to start</string>
+    <string name="start_sensors">Start sensors</string>
+</resources>
